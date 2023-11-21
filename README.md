@@ -1,6 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-### Router-Sample
 
 In this project you will see and can learn that how React Routing works, how can call a component with different routes.
 
