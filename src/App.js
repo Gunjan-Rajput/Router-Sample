@@ -5,7 +5,7 @@ class App extends React.Component {
       <div>
         <br />
         <h1>React Router</h1>
-        <p> Here is simle demo how React Routing is working.</p>
+        <p> Here is simple demo how React Routing is working.</p>
         <p> On click <b>Users</b> or <b>Contact</b>, page will be redirect to a new route with new data/Component.</p> 
       </div>
     )
