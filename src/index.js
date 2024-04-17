@@ -8,7 +8,6 @@ import NotFound from './NotFound';
 import { Route, NavLink, BrowserRouter as Router,Switch } from 'react-router-dom'
 import * as serviceWorker from './serviceWorker';
 
-
 const routing = (
   <Router>
     <div className="div_routes">
