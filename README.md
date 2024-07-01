@@ -4,7 +4,6 @@ In this project you will see and can learn that how React Routing works, how can
 In the project directory, you can run:
 
 
-
 ### `npm start`
 
 Runs the app in the development mode.
